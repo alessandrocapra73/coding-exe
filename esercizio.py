@@ -1,3 +1,7 @@
+# Qusto è il mio primo script
+# By Alessandro
+
+
 
 def mostra_menu():
    # Mostra il menu delle operazioni disponibili.
