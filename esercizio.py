@@ -1,5 +1,5 @@
 # Qusto è il mio primo script
-# By Alessandro
+# By Alessandro Capra
 
 
 
